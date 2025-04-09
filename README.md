@@ -1,7 +1,7 @@
 # bulk-chain-shell 0.25.0
 ![](https://img.shields.io/badge/Python-3.9-brightgreen.svg)
 
-This project is a bash-shell client for bulk-chain no-string framework for reasoning over your data using predefined CoT prompt schema.
+This project is a [bash-shell client](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) for [bulk-chain](https://github.com/nicolay-r/bulk-chain) no-string framework for reasoning over your data using predefined [CoT prompt schema](https://github.com/nicolay-r/bulk-chain?tab=readme-ov-file#chain-of-thought-schema).
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/0cc8fdcb-6ddb-44a3-8f05-d76250ae6423" width="380" height="auto"/>
