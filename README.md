@@ -1,4 +1,5 @@
 # bulk-chain-shell 0.25.0
+![](https://img.shields.io/badge/Python-3.9-brightgreen.svg)
 
 This project is a bash-shell client for bulk-chain no-string framework for reasoning over your data using predefined CoT prompt schema.
 
@@ -68,4 +69,5 @@ See examples with models [at nlp-thirdgate 🌌](https://github.com/nicolay-r/nl
 
 # References
 
-> TODO.
+* bulk-chain no-string API: https://github.com/nicolay-r/bulk-chain
+* Third-party providers hosting: https://github.com/nicolay-r/nlp-thirdgate?tab=readme-ov-file#llm
