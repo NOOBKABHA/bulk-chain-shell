@@ -1,6 +1,10 @@
 # bulk-chain-shell 0.25.0
 ![](https://img.shields.io/badge/Python-3.9-brightgreen.svg)
 
+<p align="center">
+  <a href="https://github.com/nicolay-r/nlp-thirdgate?tab=readme-ov-file#llm"><b>Third-party providers hosting</b>↗️</a>
+</p>
+    
 This project is a [bash-shell client](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) for [bulk-chain](https://github.com/nicolay-r/bulk-chain) no-string framework for reasoning over your data using predefined [CoT prompt schema](https://github.com/nicolay-r/bulk-chain?tab=readme-ov-file#chain-of-thought-schema).
 
 <p align="center">
